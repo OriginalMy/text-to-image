@@ -10,6 +10,7 @@ This bot does:
 
 1. Change SMTP with your server configuration.
 
+```
 $mail = new PHPMailer();
 $mail->IsSMTP();
 $mail->SMTPAuth   	= true;
@@ -25,13 +26,14 @@ $mailFrom 		= '<MAIL_FROM>';
 $mailFromName 		= '<MAIL_FROM_NAME>';
 $mailTo 		= '<MAIL_TO>';
 $mailToName 		= '<MAIL_TO_NAME>';
-
+```
 
 2. Configure cron:
 - For publishing 5 to 5 days, at 10am:
-
-/*0 10 */5 * * cd <path-to-text-to-image>/text-to-image/; sleep 1;  /usr/bin/php ./text-to-image.php 1>/dev/null 2>/dev/null/*
-
+```
+# 0 10 */5 * * cd <path-to-text-to-image>/text-to-image/; sleep 1;  /usr/bin/php ./text-to-image.php 1>/dev/null
+2>/dev/null/*
+```
 3. Configure an account on [IFTTT](ifttt.com) for filtering your email [$mailTo] by subject and publishing the image 
 on your Facebook fanpage.
 
