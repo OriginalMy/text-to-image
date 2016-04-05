@@ -16,17 +16,17 @@ $mail = new PHPMailer();
 $mail->IsSMTP();
 $mail->SMTPAuth   	= true;
 $mail->SMTPSecure 	= "tls";
-$mail->Port		= "587";
+$mail->Port		      = "587";
 $mail->Host       	= "smtp.<YOUR_SERVER>.com";
 $mail->Username   	= "<USERNAME>";
 $mail->Password   	= "<PASSWORD>";
-$mail->SMTPDebug 	= 2;
+$mail->SMTPDebug 	  = 2;
 $mail->Debugoutput 	= 'html';
-$mail->Subject 		= '<YOUR_SUBJECT>';
-$mailFrom 		= '<MAIL_FROM>';
-$mailFromName 		= '<MAIL_FROM_NAME>';
-$mailTo 		= '<MAIL_TO>';
-$mailToName 		= '<MAIL_TO_NAME>';
+$mail->Subject 		  = '<YOUR_SUBJECT>';
+$mailFrom 		      = '<MAIL_FROM>';
+$mailFromName 		  = '<MAIL_FROM_NAME>';
+$mailTo 		        = '<MAIL_TO>';
+$mailToName 		    = '<MAIL_TO_NAME>';
 ```
 
 2) Configure cron:
@@ -41,7 +41,7 @@ on your Facebook fanpage.
 ## Tips
 * We use 800x800px PNG, but it could be a 512x512px.
 * [Pixabay](www.pixabay.com) can be a very good bg image repository
-* Quote format is: <quote>;<author>
+* Quote format is: quote;author
 
 
 
