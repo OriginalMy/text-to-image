@@ -1,0 +1,466 @@
+Bitcoin is punk rock;Andreas M. Antonopoulos
+Bitcoin é punk rock;Andreas M. Antonopoulos
+On the blockchain, nobody knows you're a fridge.;Richard Brown
+No Blockchain ninguém sabe que você é um frigorífico;Richard Brown
+I'll begin: "Bitcoin is the Blockchain";bitcoinpauls
+Começando: "Bitcoin é o Blockchain";bitcoinpauls
+Bitcoin gives us, for the first time, a way for one Internet user to transfer a unique piece of digital property to another Internet user;Marc Andreessen
+Pela primeira vez, um caminho para um usuário transferir uma parte de uma propriedade digital para outro usuário;Marc Andreessen
+When it becomes possible to trust exchanges you wont have to.;flailing_junk
+Quando se tornou possível acreditar em exchanges, você não precisa;flailing_junk
+Blockchain: Blueprint for a New Economy;Melanie Swan
+Blockchain: Diagrama para uma Nova Economia;Melanie Swan
+Deflation is associated with a collapse in demand because that is the only example of deflation we have to study.;Andreas M. Antonopoulos
+Deflação é associada com um colapso na demanda porque ela é o único exemplo de deflação que nós estudamos;Andreas M. Antonopoulos
+The genesis block contains a hidden message within it.;Andreas M. Antonopoulos
+O genesis block contém uma mensagem escondida nele;Andreas M. Antonopoulos
+The digital keys in a user’s wallet are completely independent of the bitcoin protocol;Andreas M. Antonopoulos
+As chaves digitais em uma carteira são independentes do protocolo bitcoin;Andreas M. Antonopoulos
+The private key must remain secret at all times;Andreas M. Antonopoulos
+A chave privada deve permanecer secreta para sempre;Andreas M. Antonopoulos
+The private key must also be backed up and protected from accidental loss;Andreas M. Antonopoulos
+A chave privada deve ter backup e protegida de perda acidental;Andreas M. Antonopoulos
+Bitcoin creates digital assets that have intrinsic value;Andreas M. Antonopoulos
+And can be stolen and diverted to new owners instantly and irrevocably;Andreas M. Antonopoulos
+Bitcoin cria ativos digitais que possuem valor intrínseco;Andreas M. Antonopoulos
+E podem ser roubadas e enviadas para novos donos, instantaneamente e irrevogavelmente;Andreas M. Antonopoulos 
+The most recent few blocks might be revised if there is a chain recalculation due to a fork;Andreas M. Antonopoulos
+Os mais recentes blocos precisam ser revisados se houver recálculo na cadeia por causa de um fork;Andreas M. Antonopoulos
+Bitcoin is often mistakenly characterized as “anonymous” currency;Andreas M. Antonopoulos
+Bitcoin tem sido erroneamente caracterizado como moeda 'anônima';Andreas M. Antonopoulos
+In fact, it is relatively easy to connect identities to bitcoin addresses;Andreas M. Antonopoulos
+De fato, é relativamente fácil vincular identidades à endereços bitcoin;Andreas M. Antonopoulos
+For a global system like Bitcoin there is a financial incentive;James Smith
+For these closed networks it's probably going to be a legal incentive.;James Smith
+Para um sistema global como Bitcoin há incentivo financeiro;James Smith
+Para as redes fechadas provavelmente haverá incentivo legal;James Smith
+They may find out the real benefit is in global networks like Bitcoin.;James Smith
+Vão descobrir que o real benefício está em redes globais como  Bitcoin;James Smith
+Banks, are obsolete and will not exist as we know them in 10 years;Reggie Middleton
+Bancos, são obsoletos e não vão existir como conhemos em 10 anos;Reggie Middleton
+The banking system is trying to do the same thing;Reggie Middleton
+O sistema bancário está tentando fazer o mesmo;Reggie Middleton
+The early days of the internet was like this scary thing;Paul Gordon
+Os primeiros dias da internet foram assustadores;Paul Gordon
+The idea of the web and the internet is supposed to be open to everyone;Paul Gordon
+A ideia de web e internet é supostamente ser aberta para todos;Paul Gordon
+So what the banks do? They look at Bitcoin and say “Let’s see";Andreas Antonopoulos
+Então o que os bancos fazem? Eles observam o Bitcoin e dizem: "Let's see";Andreas Antonopoulos
+It is an open, borderless, decentralized, transparent, and peer-to-peer currency. Fantastic!;Andreas Antonopoulos
+Ela é uma moeda aberta, sem fronteiras, descentralizada, transparente e p2p. Fantástico!;Andreas Antonopoulos
+In the future I see a public blockchain;James Smith
+No futuro eu vejo um blockchain público;James Smith
+So it becomes very simple for me to swap my dollars for your IBM shares, or your pounds for my house;James Smith
+Então se tornou simples para mim trocar meu dólares por ações da IBM, ou seus trocados pela minha casa;James Smith
+Any asset that we assign a value to and want to be sure about who owns it can be registered using this technology;James Smith
+Qualquer ativo que determinarmos valor e quisermos saber quem é o dono, pode ser registrado;James Smith
+Bitcoin will remain, in my opinion, a relentless anomaly that refuses to go away;Andreas M. Antonopoulos
+Bitcoin continuará uma implacável anomalia que se recusa a desistir;Andreas M. Antonopoulos 
+A black swan that cannot be ignored or extinguished;Andreas M. Antonopoulos
+Um cisne negro que não pode ser ignorado ou extinto;Andreas M. Antonopoulos
+Content creators now have a new way of financing their creativity;Andreas M. Antonopoulos
+Criadores de conteúdo agora tem uma maneira de financiar sua criatividade;Andreas M. Antonopoulos
+Bitcoin can help with the evolution of kickstarter, indiegogo and other crowdfunding tools into global;Andreas M. Antonopoulos
+Bitcoin pode ajudar na evolução tornando global qualquer crowdfunding;Andreas M. Antonopoulos
+An opportunity to become part of a global economy which up till now did not exist;Andreas M. Antonopoulos
+Uma oportunidade de se tornar parte da economia global que não existia;Andreas M. Antonopoulos
+Bitcoin is more than just a curiosity, it might be a doorway to connect to the world;Andreas M. Antonopoulos
+Bitcoin é mais que curiosidade, é uma porta para conectar o mundo;Andreas M. Antonopoulos
+Bitcoin's consensus algorithm requires a very conservative approach to change;Andreas M. Antonopoulos
+O algorítmo de consenso do Bitcoin requer uma abordagem muito conservadora para mudar;Andreas M. Antonopoulos
+I certainly think it is best to solve problems when they are actually problems and not before;Andreas M. Antonopoulos
+Certamente eu acho que o melhor para resolver problemas atuais, não anteriores;Andreas M. Antonopoulos
+Successful remittances depend on matching these two needs and creating balanced flows in both directions;Andreas M. Antonopoulos
+Remessas bem sucedidadas dependem de criar um fluxo balanceado em ambas direções;Andreas M. Antonopoulos
+Most of the countries with large incoming remittances flows are also countries with severely restricted currency outflows;Andreas M. Antonopoulos
+Muitos países com forte entrada de dinheiro são os mais restritos com a saída de moeda;Andreas M. Antonopoulos
+Decentralized exchanges would be best, but despite hard work from many, such a system has not been built so far;Andreas M. Antonopoulos
+Exchanges descentralizadas seriam as melhores, mas dependem de um sistema que ainda não foi construído;Andreas M. Antonopoulos
+I wouldn't fight, I'd just go 'BOO!';Andreas M. Antonopoulos
+Eu não luto contra, eu simplesmente o assusto;Andreas M. Antonopoulos
+Security is both the biggest issue in bitcoin and the biggest opportunity in bitcoin;Andreas M. Antonopoulos
+Segurança é o maior problema do bitcoin e também sua maior oportunidade;Andreas M. Antonopoulos
+Bitcoin is at the same stage as the Internet in 1992-1993;Andreas M. Antonopoulos
+Bitcoin está no mesmo estágio da Internet em 92/93;Andreas M. Antonopoulos
+At that time, it took UNIX command-line skills to send email;Andreas M. Antonopoulos
+Naquela época, era necessário skill de linha de comando UNIX para enviar email;Andreas M. Antonopoulos
+No way near ready for mainstream adoption;Andreas M. Antonopoulos
+De forma alguma está próximo da adoção pelo mainstream;Andreas M. Antonopoulos
+Bitcoin has a tremendous 'network effect';Andreas M. Antonopoulos
+Bitcoin tem um tremendo 'efeito de rede';Andreas M. Antonopoulos
+In technology it is often not the best technology that "wins";Andreas M. Antonopoulos
+Em tecnologia, não é sempre a melhor tecnologia que 'vence';Andreas M. Antonopoulos
+Good enough beats best if deployed broadly;Andreas M. Antonopoulos
+O bom supera o melhor se difundido amplamente;Andreas M. Antonopoulos
+To experience the future of money;Andreas M. Antonopoulos
+Para experimentar o futuro do dinheiro;Andreas M. Antonopoulos
+To gain a glimpse into an exciting technology;Andreas M. Antonopoulos
+Um vislumbre em uma tecnologia excitante;Andreas M. Antonopoulos
+To learn about how money could be in the future;Andreas M. Antonopoulos
+And also become aware of how limited money and banks are today;Andreas M. Antonopoulos
+Para aprender como o dinheiro seria no futuro;Andreas M. Antonopoulos
+E também como tão limitados são o dinheiro e os bancos hoje;Andreas M. Antonopoulos
+Consensus technology has the power to do for economics what the internet did for information;Bytemaster
+Tecnologia de consenso faz pela economia o que a internet fez pela informação;Bytemaster
+Consensus technology has the power to make governments irrelevant;Bytemaster
+Tecnologia de consenso tem o poder de tornar governos irrelevantes;Bytemaster
+Digital currencies have immense potential to improve human welfare;Gregory Ferenstein
+Moedas digitais tem um imenso potencial de melhorar o bem-estar da humanidade;Gregory Ferenstein
+A wide range of services and products can be built by entrepreneurs and non-profits on top of it;Gregory Ferenstein
+Um grande número de serviços e produtos podem ser construídos em cima dele;Gregory Ferenstein
+Digital currencies like bitcoin are the network of transactions;Gregory Ferenstein
+Moedas digitais como bitcoin são a rede de transações;Gregory Ferenstein
+If you think bitcoin is just for money transfer, that’s like thinking the internet was only built for email;Gregory Ferenstein
+Pensar que bitcoin é só transferência de dinheiro, é crer que a internet foi feita para email;Gregory Ferenstein
+The true innovation that bitcoin solved was the elimination of the “double-spend.”;Gregory Ferenstein
+A verdadeira inovação do bitcoin foi resolver o 'double-spend';Gregory Ferenstein
+The unbanked have very limited access to the savings and borrowing mechanisms necessary to drive broad-based economic growth;Gregory Ferenstein
+Pessoas 'sem bancos' tem um acesso limitado à suas poupanças e um sistema de empréstimo é necessário para a economia crescer;Gregory Ferenstein
+$24 billion in identity theft occurs annually because corporations treat your social security number as a user name and a password;Gregory Ferenstein
+$24 bilhões em roubo de identidade todos anos porque empresas tratam essas informações como usuário e senha;Gregory Ferenstein
+I’ve found officials in governments learning about the technology.;Gregory Ferenstein
+Vi governos aprendendo sobre a tecnologia;Gregory Ferenstein
+We do not want a future society free from people we have to trust;Brett Scott
+Não queremos um futuro livre de pessoas que temos que confiar;Brett Scott
+We want a world in which technology is used to dilute the power;Brett Scott
+Queremos um mundo onde a tecnologia é usada para diluir o poder;Brett Scott
+What if the ledger recording the votes cast was held by a decentralised network of citizens;Brett Scott
+E se um livro razão gravasse votos em uma rede descentralizada de pessoas;Brett Scott
+For example, think of the potential of blockchain voting systems;Brett Scott
+Por exemplo, pense no potencial do Blockchain em sistemas de voto;Brett Scott
+On the blockchain, nobody knows you're a fridge.;Richard Brown
+No blockchain ninguém sabe se vc é uma geladeira;Richard Brown
+Each device is self-sufficient in managing itself;Paul Brody
+Cada dispositivo é auto-suficiente para gerenciar a si mesmo;Paul Brody
+An important aspect of this distributed cloud is the lack of trust in individual nodes;Paul Brody
+Um importante aspecto da cloud distribuída é a falta de confiança em nodes;Paul Brody
+With a centralized system, trust is easier;Paul Brody
+Com um sistema centralizado, confiança é mais simples;Paul Brody
+It is the first time that devices can act in the financial markets completely independent of any human interference;Paul Brody
+É a primeira vez que dispositivos podem agir em mercados financeiros sem interferência humana;Paul Brody
+The blockchain is the alternative.;yellowecho
+O Blockchain é a alternativa;yellowecho
+The revolution will not be televised. It will be cryptographically time stamped on the block chain;Dominic Frisby
+A revolução não será televisionada. Será registrada criptograficamente no blockchain;Dominic Frisby
+Bitcoin is a new kind of internet based computer money that has taken the world by storm;Sir Richard Branson
+Bitcoin é um novo tipo de internet baseada em dinheiro de computador que pegará o mundo como um furação;Sir Richard Branson
+It’s crucial that everyone has an understanding and access to enable it [digital currencies] to work for them;Sir Richard Branson
+É crucial que todos tenham entendimento e acesso para fazer a moeda digital trabalhar por si;Sir Richard Branson
+I do think bitcoin is the first one of these that has the potential to do something like that;Peter Thiel
+Eu acho que bitcoin é o primeiro desses que tem o potencial de fazer algo como aquilo;Peter Thiel
+Bitcoin is exciting because it shows how cheap it can be;Bill Gates
+Bitcoin é excitante porque ela mostra quão barato isso pode ser;Bill Gates
+Stay away from it. It’s a mirage, basically;Warren Buffet
+Fique longe disso. Basicamente é uma miragem;Warren Buffet
+Things like Bitcoin are completely outside the control and the knowledge of anyone;John McAfee
+Coisas como Bitcoin estão completamente fora de controle e do conhecimento de qualquer um;John McAfee
+It will be everywhere and the world will have to readjust;John McAfee
+World governments will have to readjust;John McAfee
+Governos globais terão que se reajustar;John McAfee
+Estará em todos os lugares e o mundo terá que se readaptar;John McAfee
+Take the most important: that one can transfer any amount of it anywhere instantly without anyone else being able to stop it, at almost zero cost;Erik Voorhees
+I think the fact that within the bitcoin universe an algorithm replaces the functions of [the government] … is actually pretty cool;Al Gore
+É fato que o dentro do universo bitcoin já um algorítmo que substitui o governo e isso é muito legal;Al Gore
+When bitcoin currency is converted from currency into cash, that interface has to remain under some regulatory safeguards;Al Gore
+Quando bitcoin é convertido para dinheiro, a interface estará sob alguma regulação;Al Gore
+Bitcoin Is The Truth;Balaji Srinivasan
+Bitcoin é A Verdade;Balaji Srinivasan
+If you are using Bitcoin, you are making the world a better place;Balaji Srinivasan
+Se você está usando Bitcoin, você está fazendo do mundo um lugar melhor;Balaji Srinivasan
+Quanto mais o mundo abraça o Bitcoin, mais o Bitcoin abraça o mundo;Fabio Anjos
+A transfer of trust in a trustless world;Anonimo
+Transferência de confiança, em um mundo infiel;Anonimo
+Nós vivemos no século XXI mas ainda estamos usando estruturas organizacionais do século 16;Dee Hock
+O Bitcoin é um dos melhores exemplos de como uma organização descentralizada, ponto-a-ponto, pode resolver problemas que essas organizações antigas não podem;Dee Hock
+O Bitcoin representa não só o futuro dos pagamentos, mas também o futuro da governança;Dee Hock
+Por que o Bitcoin tem valor? E a resposta é muito fácil - porque ele é útil e escasso;Eric Voorhees
+Você precisa de alguma alternativa e o Bitcoin é bom o suficiente para isso;James G. Rickards
+Isso parece o melhor sistema de pagamentos do mundo!;Trace Mayer
+To the moon!!11!!;Desciclopedia
+Para a Lua!!11!!;Desciclopedia
+Resumindo, a Western Union gasta e lucra bilhões para fazer o que o Bitcoin faz de graça;National Geographic
+O Bitcoin fará com os bancos o que o e-mail fez com a indústria postal;Rick Falkvinge
+O Bitcoin talvez seja o TCP/IP do dinheiro;Paul Buchheit 
+Atualmente o Bitcoin parece a Internet antes dos navegadores;Chamath Palihapitiya
+É o dinheiro 2.0, um negócio muitoooo grande;Wences Casares
+Eu penso que o Bitcoin é o primeiro [dinheiro encriptado] que tem o potencial de fazer alguma coisa como mudar o mundo;Peter Thiel 
+Isso estará em todo o lugar e o mundo terá que se adaptar. Os governos do mundo terão que se adaptar;John McAfee 
+O próximo passo da evolução humana será se tornar uma raça que poderá colocar sua confiança no próximo, não nos seus legisladores ou políticos;S.E Sever
+Todas as pessoas informadas precisam conhecer o Bitcoin porque ele pode ser um dos acontecimentos mais importantes do mundo;Leon Louw 
+Você não pode parar coisas como o Bitcoin. É como tentar parar pólvora;John McAfee 
+É o ouro para nerds;Stephen Colbert 
+Nós preferimos colocar nosso dinheiro e fé na matemática, pois é ela é livre de política e erro humano;Tyler Winklevoss 
+Existem 3 eras da moeda: baseada em commodities, baseada na política, e agora, baseada na matemática;Chris Dixon 
+Se nos lembrarmos, se você estivesse fazendo alguma coisa na Internet há 15 anos atrás você provavelmente faria milhões. Eu penso que pode acontecer o mesmo com o Bitcoin;Jered Kenna 
+Eu penso que a Internet será uma das maiores forças para reduzir o tamanho do governo;Milton Friedman 
+O Bitcoin é um protocolo: nenhum político pode, através de leis, alterar a maneira como ele funciona;Roger Ver
+Blockchain technology continues to redefine the global financial economy as a whole;Bob Greifeld
+Tecnologia Blockchain continua a redefinir a economia global como um todo;Bob Greifeld
+A lot of bitcoiners don’t realise how finality and settlement works with title transfer;Tim Swanson
+Muitos bitcoiners não se dão conta da finalidade e funcionamento de uma transferência de título;Tim Swanson
+‘Move fast, break things’. That mantra doesn’t apply in financial services;Adam Ludwin
+'Mova rápido, quebre coisas'. Esse mantra não se aplica aos serviços financeiros;Adam Ludwin
+The hot job of the future might be robot psychologist;George John
+O trabalho do futuro será psicólogo de robôs;George John
+You can’t have some kind of automated perfect society. That’s like a fools game;Lanier
+Não se poder ter algum tipo de sociedade automatizada perfeita. É como um jogo de tolos;Lanier
+Talent is universal, but opportunity isn’t;Julie Hanna
+Talento é universal, mas oportunidade não;Julie Hanna
+More than 2 billion adults around the world do not have access to a bank account;Marc Andreessen
+Mais de 2 bilhões de adultos no planeta não tem acesso à uma conta bancária;Marc Andreessen
+Today we practice a lot of authentication theatre;Marc Andreessen
+Hoje nós praticamos um grande teatro de autenticações;Marc Andreessen
+Digital economy, through which connected individuals and organizations, could transport dominant structures to networks;Don Tapscott
+Economia digital, aquela que conecta indivíduos e organizações, pode transportar as estruturas dominantes para redes;Don Tapscott
+The Great Depression, like most other periods of severe unemployment, was produced by government mismanagement rather than by any inherent instability of the private economy.;Milton Friedman
+So learning to collaborate is part of equipping yourself for effectiveness, problem solving, innovation and life-long learning in an ever-changing networked economy.;Don Tapscott
+A weak currency is the sign of a weak economy, and a weak economy leads to a weak nation;Ross Perot
+Uma moeda fraca é sinal de uma economia fraca, e uma economia fraca conduz a uma fraca nação;Ross Perot
+Bitcoin's got its issues. But it is not competing with perfection;Dan Kaminsky
+Bitcoin tem seus problemas. Mas ele não compete pela perfeição;Dan Kaminsky
+Bitcoin is newer, and we always look at babies with hope;Paul Singer
+Bitcoin é novo, e nós sempre olhamos para bebês com esperança;Paul Singer
+There is no more reason to believe that Bitcoin will stand the test of time than that governments will protect the value of government-created money;Paul Singer
+Não há mais razão para acreditar que Bitcoin vai parar de testar o tempo em que governos  protegem a sua moeda estatal;Paul Singer
+Because it is a system independent of external meddling, there can be no sudden devaluation of Bitcoins through the actions of governments.;Kurt Eichenwald
+Sendo um sistema que independe de ação externa, não haverá desvalorização por ações governamentais;Kurt Eichenwald
+Bitcoin is actually an exploit against network complexity. Networks themselves.;Dan Kaminsky
+Bitcoin é uma vulnerabilidade contra complexidade de redes. Redes em si;Dan Kaminsky
+In truth, the best Bitcoin can hope for is to be a second-rate version of gold, if that.;Andrew Ross Sorkin
+Na verdade, o melhor que o Bitcoin pode esperar é ser a segunda versão de ouro;Andrew Ross Sorkin
+Really? A hacker can wreck an entire market?;Kurt Eichenwald
+Sério? Um hacker pode quebrar um mercado inteiro?;Kurt Eichenwald
+Bitcoin is mostly about anonymous transactions, and I don't think over time that's a good way to go;Bill Gates
+Bitcoin é quase sempre sobre transações anônimas, e eu não acho que é um bom caminho a seguir;Bill Gates
+The economics of investments are not solely based on supply and demand, and that is all that goes into Bitcoin prices.;Kurt Eichenwald
+Os investimentos nem sempre são somente baseados em oferta e demanda, e é apenas isso que muda o preço do Bitcoin;Kurt Eichenwald
+You have to really stretch your imagination to infer what the intrinsic value of Bitcoin is;Alan Greenspan
+Você precisa expandir sua imaginação para inferir o valor intrínsico do Bitcoin;Alan Greenspan
+The Internet's proven to be a pretty big deal for global society, and Bitcoin could basically be thought of as the Internet, applied to money.;Dan Kaminsky
+A Internet provou ser muito boa para a sociedade global e Bitcoin pode ser pensado como a Internet, aplicada ao dinheiro;Dan Kaminsky
+Bitcoin woke us all up to a new way to pay, and culturally, I think a much larger percentage of us have become accustomed to the idea that money no longer comes with the friction it once had.;John Battelle
+Bitcoin nos acordou para um novo meio de pagamento;John Battelle
+My view is that the bitcoin is in its very early days, and it is an artificial currency.;Uday Kotak
+Minha visão é de que o bitcoin está em seu estágio inicial e é uma moeda artificial;Uday Kotak
+But whether it is creating new money, whether it is sustainable, whether it would survive - I have many questions about it.;Uday Kotak
+Mas se vai criar uma nova moeda, se é sustentável, se vai sobreviver - Tenho muitas questões sobre;Uday Kotak
+In the short or even long term, may turn out be a good investment in the same way that anything that is rare can be considered valuable;Andrew Ross Sorkin
+No curto ou longo prazo pode ser um bom investimento, assim como algo raro tem valor;Andrew Ross Sorkin
+Is not an actual physical coin, and if computers are shut down, you can't buy or sell them;Mark Skousen
+Não é uma moeda física, e se os computadores forem desligados, você não poderá comprar ou vendê-la;Mark Skousen
+I do not understand where the backing of Bitcoin is coming from;Alan Greenspan
+Eu não entendendo de onde vem o lastro do Bitcoin;Alan Greenspan
+At its core, bitcoin is a smart currency designed by very forward-thinking engineers;Peter Diamandis
+No seu core, bitcoin é uma moeda inteligente desenhada por engenheiros que pensam muito à frente;Peter Diamandis
+It eliminates the need for banks, gets rid of credit card fees, currency exchange fees, money transfer fees, and reduces the need for lawyers in transitions... all good things.;Peter Diamandis
+Ela elimina a necessidade de bancos, tarifas de cartão, tarifas de exchanges, tarifas de remessas;Peter Diamandis
+E reduz a necessidade de advogados nas transações. Só coisas boas;Peter Diamandis
+Bitcoins are not a real investment, they are bets inside a casino;Kurt Eichenwald
+Bitcoin não é um investimento real, são fichas em um cassino;Kurt Eichenwald
+People who are desperate to keep the game going rush back in, hoping to bring the price back up, but it never lasts.;Kurt Eichenwald
+Desesperados por se manterem no jogo, na esperança de trazer o preço de volta. Mas ele nunca volta.;Kurt Eichenwald
+There is a mental gap coming with our ability to engage with technology;Mick Walvisch
+Há um gap mental em nossa habilidade de se engajar na tecnologia;Mick Walvisch
+Platforms are the offices/factories of the future;Ernesto Spruyt
+Plataformas são os escritórios/fábricas do futuro;Ernesto Spruyt
+Mass collaboration is the future of competitive advantage in business;Nick Wright
+Colaboração em massa é o futuro da vantagem competitiva em negócios;Nick Wright
+Crowdsourcing is an executive—not marketing—capability;Sean Moffitt
+Crowdsourcing é uma habilidade/mkt não executiva;Sean Moffitt
+You don’t own your brand anymore. Honor the crowd’s co-ownership of your brand.;Shelley Kuipers
+Você não possui mais a sua marca. Honre a co-propriedade com uma multidão;Shelley Kuipers
+Bitcoin is going to be the single biggest disruptor of the financial services—not the currency, but the blockchain technology behind it;Chris Skinner
+Bitcoin é o maior disruptor dos serviços financeiros - não a moeda, mas a tecnologia blockchain;Chris Skinner
+Crowdfunding is not about financing;Karsten Wenzlaff
+Crowdfunding não é sobre financiamento;Karsten Wenzlaff
+Gender equality and equity is about access and empowerment;Babou Olengha-Aaby
+Igualdade de gêneros é sobre acesso e empoderamento;Babou Olengha-Aaby
+If it’s free—if you can’t see the price tag, you’re probably the PRODUCT;Steve Jennings
+Se é grátis, se você não vê o preço, provavelmente você é o produto;Steve Jennings
+We’ve only discovered a fraction of the platforms that one might create;Daan Weddepohl
+Somente descobrimos uma fração de plataformas que podem ser criadas;Daan Weddepohl
+Crowdsourcing is going to leverage the crowd social media has put in place for us;Shelley Kuipers
+Crowdsourcing alavanca engajamento em mídia social, em nosso favor;Shelley Kuipers
+Mass collaboration is becoming second nature;Nick Wright
+Colaboração em massa está se tornando uma segunda natureza;Nick Wright
+We are more connected now than at any other time in human history;Nick Wright
+Estamos mais conectados que qualquer outro momento na história da humanidadel;Nick Wright
+Social media is the tip of the iceberg, and where we’re going next is collaboration—in business and organizations;Nick Wright
+Mídias sociais são o topo do iceberg, e onde está o próximo ponto de colaboração para empresas e organizações;Nick Wright
+At its core, bitcoin is a decentralized protocol that enables exchange of value among parties around the world, giving it the potential to alter the financial services landscape;Jay Reinemann
+The bitcoin blockchain ‘is an opportunity for Wall Street to streamline some operations that are pretty antiquated;Duncan Niederauer
+O blockchain é uma oportunidade para Wall Street para simplificar algumas operações antiquadas;Duncan Niederauer
+Money at its core is simply a ledger for keeping track of debts, and bitcoin is truly the best iteration of a universal ledger we’ve ever seen;John Reed
+Blockchain is a really disruptive development, and banks have a lot of fear concerning this technology;Thomas F Dapp
+Blockchain é realmente disruptivom e bancos tem muito medo de entender esta tecnologia;Thomas F Dapp
+Because in the pure theory of blockchain, a lot of processes within a traditional bank would be obsolete;Thomas F Dapp
+Por causa da teoria do blockchain, muito processos no banco tradicional se tornarão obsoletos;Thomas F Dapp
+Blockchain technology will not only change the way we do payments, it will change the whole trading and settlement topic;Oliver Bussmann
+Não vai apenas mudar o meio de pagamentos, vai mudar tudo sobre trading e transferências;Oliver Bussmann
+Blockchain technology continues to redefine not only how the exchange sector operates, but the global financial economy as a whole;Bob Greifeld
+Continua redefinindo não somente o setor de exchanges, mas a economia global;Bob Greifeld
+In time, distributed ledgers will support smart contracts – computer protocols that verify or enforce contracts;Santander Innoventures
+Livros razão distribuídos vão suportar contratos inteligentes;Santander Innoventures
+This will lead to a wide variety of potential uses in securities, syndicated lending, trade finance, swaps, derivatives or wherever counter-party risk arises;Santander Innoventures
+Vai liderar uma grande variedade de potenciais usos em seguros, empréstimos, aluguéis[...];Santander Innoventures
+The more trust we put online, the more we need blockchain;Stacey Higginbotham
+Quanto mais confiança colocada online, mais precisamos do blockchain;Stacey Higginbotham
+Fidor is the first major bank to experiment with virtual currency and blockchain;Fidor Bank
+É o primeiro grande banco a experimentar a moeda virtual e blockchain;Fidor Bank
+Expressed that they are working on a  new project with blockchain technology;LHV Bank
+Estamos trabalhando em um novo projeto com blockchain;LHV Bank
+Developed Cuber Wallet, an app based on “Colored Coins” blockchain technology;LHV Bank
+Desenvolvemos Wallet Cuber, um app baseado em "Colored Coins";LHV Bank
+Partnered with Coinbase and CoinFloor;LHV Bank
+Parceiros da Coinbase e CoinFloor;LHV Bank
+Announced partnership with Ripple Labs;Cross River Bank
+Parceria com a Ripple Labs;Cross River Bank
+Working on building a risk management system;Cross River Bank
+Criando um sistema de gerenciamento de risco;Cross River Bank
+Also to provide low-cost cross-border payments transaction;Cross River Bank
+Provendo transações e remessas de baixo custo;Cross River Bank
+Is experimenting with BTC, blockchain and Ripple payments network;Rabobank
+Experimentando BTC, blockchain e rede de pagamentos Ripple;Rabobank
+Investigating blockchain technology for banking purposes.;ABN Amro
+Investigando blockchain para usos para o banco;ABN Amro
+Researching into blockchain with the aim to improve the speed of transaction.;ING Bank
+Pesquisando o blockchain para melhorar a velocidade das transações;ING Bank
+Participated as a lead investor in $50M funding for Bitcoin startup Circle Internet Financial Ltd;Goldman Sachs
+Liderou o investimento de $50M da Circle;Goldman Sachs
+Have released a research report in July 2015 stating interest in blockchain technology and not the currency;BBVA Ventures
+Publicou um relatório em Julho de 2015 sobre o blockchain e não sobre a moeda;BBVA Ventures
+Participated in a $75M Series C funding for Coinbase;BBVA Ventures
+Participou da Series C de $75M da Coinbase;BBVA Ventures
+Claims to have 20-25 use cases for blockchain and that around GBP 12 billion could be saved in banks infrastructure by switching to the blockchain concept;Santander
+Encontrou 20-25 usos para o blockchain;Santander
+Economizará $20M/ano usando o blockchain;Santander
+Set up team Crypto 2.0 to research on the use of blockchain in banking with a specific focus on international payments and smart contracts;Santander
+Criou o time de pesquisa Crypto 2.0 para usar o blockchain no banco com foco em remessas e contratos inteligentes;Santander
+Partnered with Ripple and is pilot testing a proof of concept with its staff for making low-value cross-border payments;Westpac
+Parceria com a Ripple e piloto de prova de conceito para remessas de baixo custo;Westpac
+Through its investments in VC fund Reinventure, it has participated in Series C funding of $75M in Coinbase;Westpac
+Participou da Series C de $75M da Coinbase;Westpac
+Has a research lab in London focused on blockchain;UBS
+Tem um laboratório em Londres focado em blockchain;UBS
+Created own currency called “BK Coins” as a corporate recognition program which can be redeemed for gifts and other rewards;BNY Mellon
+Criou a própria moeda "BK Coins" como um programa de recompensas;BNY Mellon
+Ran a 90-day accelerator program with Safello (BTC Exchange), Atlas Card (BTC debit cards creator) and Blocktree (blockchain for the insurance industry);Barclays Bank
+Partnered with Ripple Labs to implement blockchain ledger system for payment settlements between its subsidiaries;CBA
+Paceria com a Ripple para implementar um blockchain para transferências de ativos entre subsidiárias;CBA
+Created a research team to study uses of bitcoin;USAA Bank
+Criou um time de pesquisa para usos do blockchain;USAA Bank
+Partnered with Ripple to explore potential use cases of blockchain;ANZ Bank
+Parceria com a Ripple para explorar os potenciais do blockchain;ANZ Bank
+Experimenting at making transactions faster by using blockchain;BNP Paribas
+Experimenta transações usando blockchain;BNP Paribas
+Planning to staff employees with BTC, blockchain and cryptocurrency expertise;Societe Generale
+Planeja contratar especialistas em BTC, blockchains e crypto-moedas;Societe Generale
+Have set up three separate systems within Citi that deploy blockchain-based distributed technologies;Citibank
+Possui três sistemas testando tecnologias blockchain;Citibank
+They developed an equivalent to bitcoin called “Citicoin”;Citibank
+desenvolveram a moeda Citicoin;Citibank
+Blockchain is one of five domains that Citi is exploring to digitizing payments and transactions with a specific focus on cross-border capacity;Citibank
+É um dos 5 domínios que o Citi explora para pagamentos e remessas;Citibank
+It is kind of like the difference between Che Guevara and a Che Guevara T-shirt being worn by a hipster in Brooklyn;Andreas Antonopoulos
+É a diferença entre o Che Guevara e a camiseta do Che Guevara usada por um hipster;Andreas Antonopoulos
+Can we have that without the open, decentralized, borderless, transparent, peer-to-peer, and instead add a nice dose of heavy control?;Andreas Antonopoulos
+The blockchain could be a much bigger opportunity than Bitcoin;Fred Wilson 
+O blockchain pode ser uma oportunidade maior que o Bitcoin;Fred Wilson
+The whole thing about block chain based architectures is that they allow trustless transactional activity;Fred Wilson
+A maior coisa sobre blockchain é que ela permite atividade transacional em ambiente sem confiança;Fred Wilson
+There is no third party, there is no clearinghouse of identity information.;Fred Wilson
+Não há terceiros, não há clareza sobre a identidade informacional;Fred Wilson
+Bitcoin is the first practical solution to a longstanding problem in computer science called the Byzantine Generals Problem;Marc Andreessen
+Bitcoin é a primeira solução prática para o problema dos Generais Bizantinos;Marc Andreessen
+For the first time, a way for one Internet user to transfer a unique piece of digital property to another Internet user;Marc Andreessen
+Pela primeira vez, uma forma de transferir uma propriedade digital pela internet de um usuário para outro;Marc Andreessen
+Such that the transfer is guaranteed to be safe and secure, everyone knows that the transfer has taken place;Marc Andreessen
+Sendo a transferência garantida e segura, todos sabem que ela aconteceu;Marc Andreessen
+Nobody can challenge the legitimacy of the transfer;Marc Andreessen
+Ninguém consegue desafiar a legitimidade de uma transação;Marc Andreessen
+The consequences of this breakthrough are hard to overstate;Marc Andreessen
+É difícil extrapolar as consequências desse avanço;Marc Andreessen
+Bitcoins also don’t move around when they are transferred;Marc Andreessen
+Bitcoins não se movem quando são transferidos;Marc Andreessen
+They are best understood as entries in a giant ledger, the “blockchain”;Marc Andreessen
+O melhor entendimento é como um gigantesco livro-razão;Marc Andreessen
+The blockchain is public so every participant can check whether a transfer comes from the rightful owner.;Marc Andreessen
+É público onde cada participante pode checar de onde veio a transferência;Marc Andreessen
+So I’m very excited about these new types of currencies;Susan Athey
+As a way to both put pressure on existing systems to lower their fees and to become more efficient;Susan Athey
+Estou super excitada sobre esses novos tipos de moedas;Susan Athey
+Bota pressão nos sistemas existentes para baixarem as tarifas e serem mais eficientes;Susan Athey
+The ability to securely say “I’m sending something to you;Susan Athey
+A habilidade de seguramente dizer: "Estou te enviando algo";Susan Athey
+I’m sending something to you, it’s in a public ledger and that transaction has occurred, and it’s confirmed now;Susan Athey
+Estou enviando algo para você, está registrado publicamente e foi confirmado agora;Susan Athey
+Is really, really quite powerful.;Susan Athey
+É realmente muito poderoso;Susan Athey
+Because it functions simultaneously as a currency, an asset and a platform;Reid Hoffman 
+Bitcoin is better described as a global cryptoCAP;Reid Hoffman
+Porque funciona como moeda, ativo e plataforma;Reid Hoffman
+Bitcoin é melhor descrito como um cryptoCAP global;Reid Hoffman
+Even as a synergistic form of "cryptocapital" that can help unleash the full economic power of the networked age;Reid Hoffman
+In time, we are going to see the emergence of Bitcoin Googles, Bitcoin Facebooks, Bitcoin Alibabas;Reid Hoffman
+Vamos ver emergir o Google Bitcoin, o Facebook Bitcoin, Alibaba Bitcoin;Reid Hoffman
+It's the first open platform for financial services.;Reid Hoffman
+É a primeira plataforma aberta para serviços financeiros;Reid Hoffman
+Bitcoin's computational capacity will also enable machine-to-machine commerce;Reid Hoffman
+A capacidade computacional permite comércio máquina-para-máquina;Reid Hoffman
+Driverless cars will automatically pay for toll roads, parking, insurance, electricity and cloud computing for navigation planning;Reid Hoffman
+Carros sem motorista pagarão pedágios, seguro, eletricidade e computação do plano de navegação;Reid Hoffman
+By the end of 2014, Bitcoin's share of all wallet value had grown to 97 per cent;Reid Hoffman
+Ao final de 2014, o valor aumentou 97%;Reid Hoffman
+If governments were inventing a currency today, they might very well implement something like Bitcoin rather than cash;Reid Hoffman
+Se governos inventassem uma moeda hoje, seria algo como o Bitcoin ao invés de dinheiro;Reid Hoffman
+Because Bitcoin is more secure, faster-moving and more easily connected to accounting systems;Reid Hoffman
+É mais seguro, rápido e simples;Reid Hoffman
+In the end, it's the possibilities of pervasive, global, high-volume cryptocapitalism;Reid Hoffman
+Ao final, é a penetração global, de alto volume do cryptocapitalismo;Reid Hoffman
+Regulators aren't interested in killing the golden goose;Garrick Hileman
+Reguladores não tem interesse em matar a galinha dos ovos de ouro;Garrick Hileman
+They get that they need to foster a productive and dynamic ecosystem;Garrick Hileman
+Entenderam que precisam adotar um produtivo e dinâmico ecossistemal;Garrick Hileman
+I can't keep up with how fast this is all moving;Adam Ludwin
+Não consigo acompanhar a velocidade com que se move;Adam Ludwin
+We have billions of dollars in real value created by a decentralised network of computers;Adam Ludwin
+Nós temos bilhões de dólares em valor real criados por uma rede descentralizada de computadores;Adam Ludwin
+It's powerful as a public tool, but it's important to remember [the blockchain] is not a magic solution to our asset tracing and follow the money issues.;Catherine Pelker
+É poderosos como uma ferramenta pública;Catherine Pelker
+It is not a magic solution para rastrear ativos e problemas com o dinheiro;Catherine Pelker
+London [TFL] has sent the use of contactless cards through the roof;Jon Downing
+Londres [TFL] jogou pela janela os cartões sem contato (RFID);Jon Downing
+When I first came across blockchain technology I was frankly quite surprised and taken by the potential for a technology to check a lot of boxes that represent very real and very current points of pain in the existing financial market infrastructure and ecosystems.;Blythe Masters
+Fui surpreendido pelo potencial da tecnologia;Blythe Masters
+Personally, I'm very bullish [about cryptocurrencies and blockchain technology].;Debra Brackeen
+Pessoalmente sou muito otimista;Debra Brackeen
+It doesn't matter how good a blockchain is if you post rubbish on it;John Edge
+Não importa quão bom o blockchain é se você enche ele de lixo;John Edge
+If you believe in the blockchain, you believe in bitcoin;Anjney Midha
+Se você acredita no blockchain, você acredita no Bitcoin;Anjney Midha
+If successful, bitcoin and blockchain could unlock huge amounts of transactions. But how sustainable is that?;Kosta Peric
+Mas quão sustentável ele é?;Kosta Peric
+Regulation already exists to help consumers navigate bitcoin and blockchain industry, but needs to be applied;Joe Colangelo
+Regulação já existe, só precisa ser aplicada;Joe Colangelo
+Micropayments is an elegant use case that can only be done with bitcoin.;Wences Casares
+Micropagamentos é um uso elegante que só pode ser feito com bitcoin;Wences Casares
+Silk Road proved that bitcoin worked;Nathaniel Popper
+Silk Road provou que o bitcoin funcionou;Nathaniel Popper
+Silk Road is often seen as a stain on bitcoin ... but when Silk Road went online, bitcoin was worth 50 cents;Nathaniel Popper
+Quando Silk Road funcionava, o bitcoin valia 50 centavos;Nathaniel Popper
+At some point all money will be digital;Julio Faura
+Em algum momento todo o dinheiro será digital;Julio Faura
+Then, compliance could be automated;Julio Faura
+Então, compliance poderá ser automatizado;Julio Faura
+I think it's more of an opportunity than a problem;Julio Faura
+Eu acho que é mais uma oportunidade do que um problema;Julio Faura
+Interim solutions will leverage the role of banks as gateways to the financial system;Julio Faura
+Soluções interinas vão levar o papel dos bancos a serem gateways do sistema financeiro;Julio Faura
+The only way you solve problems [with distributing money to bank accounts] is by having no intermediary in person-to-person remittances;Bill Barhydt
+A única forma de resolver problemas é não havendo intermediários em remessas P2P;Bill Barhydt
+Forget the negative attacks on governments or banks;Juan Llamos
+It's a war that cannot be won and making such powerful enemies does Bitcoin no favours;Juan Llamos
+The tech and the companies operating it need to focus on making the transition to bitcoin irresistible and inevitable.;Juan Llamos
+Esqueça os ataques negativos pelos governos ou bancos;Juan Llamos
+É uma guerra com inimigos tão fortes que não pode ser ganha, não ajuda em nada o Bitcoin;Juan Llamos
+A tecnologia e companhias operando Bitcoin precisam focar em fazer a transição irresistível e inevitável;Juan Llamos
