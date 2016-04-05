@@ -53,32 +53,32 @@ $im = @ImageCreateFromPNG ('templates/' . $background );
 
 echo $background;
 
-$imagewidth = imagesx($im);
-$imageheight = imagesy($im);
+$imageWidth = imagesx($im);
+$imageHeight = imagesy($im);
 
 /* Select and configure font */
-$fontsize = "55";
-$fontangle = "0";
+$fontSize = "55";
+$fontAngle = "0";
 $fontMsg = "fonts/PlantagenetCherokee.ttf";
 $fontSig = "fonts/chops.ttf";
-$textcolor = "ffffff";
-$fontcolor = imagecolorallocate($im, 255,255,255);
-$strokecolor = imagecolorallocate($im, 0, 0, 0);
+$textColor = "ffffff";
+$fontColor = imagecolorallocate($im, 255,255,255);
+$strokeColor = imagecolorallocate($im, 0, 0, 0);
 
 /* Select and configure quote */
-$f_contents = file("quotes.txt");
+$fContents = file("quotes.txt");
 srand((float)microtime()*1000000);
-shuffle($f_contents);
-$text = $f_contents[rand(0, count($f_contents) - 1)];
+shuffle($fContents);
+$text = $fContents[rand(0, count($fContents) - 1)];
 
 while (strlen($text) > 5 && strlen($text) > 150){ // Select a 150 chars quote
-	$text = $f_contents[rand(0, count($f_contents) - 1)];
+	$text = $fContents[rand(0, count($fContents) - 1)];
 }
 echo $text;
 $lines = explode(";",$text);
 $msg = wordwrap($lines[0], 20, "\n");
 $signature = $lines[1];
-$newlines = substr_count($msg, "\n") + 1;
+$newLines = substr_count($msg, "\n") + 1;
 
 
 /* Write quote over selected bg image */
@@ -88,21 +88,21 @@ $box = @imageTTFBbox($fontsize,$fontangle,$fontMsg,$msg);
 $boxSig = @imageTTFBbox($fontsize,$fontangle,$fontSig,$signature);
 
 # Get width of text from dimensions
-$textwidth = abs($box[2] - $box[0]);
-$sigwidth = abs($boxSig[2] - $boxSig[0]);
+$textWidth = abs($box[2] - $box[0]);
+$sigWidth = abs($boxSig[2] - $boxSig[0]);
 
 # Get height of text from dimensions
-$textheight = abs($box[7] - $box[1]);
+$textHeight = abs($box[7] - $box[1]);
 
 # Get x-coord of centered text horizontally using length of the image and length of the text
-$xcord = ($imagewidth/2)-($textwidth/2)-2;
+$xCord = ($imageWidth/2)-($textWidth/2)-2;
 
 # Get y-coord of centered text vertically using height of the image and height of the text
-$ycord = ($imageheight/2)+($textheight/2)-($newlines * $fontsize)-($newlines > 3 ? 175 : 75);
+$yCord = ($imageHeight/2)+($textHeight/2)-($newLines * $fontSize)-($newLines > 3 ? 175 : 75);
 
 # Declare completed image with colors, font, text, and text location
-imagettfwritetext($im, $fontsize, $fontangle, $xcord, $ycord, $fontcolor, $strokecolor, $fontMsg, $msg, 4);
-imagettfwritetext($im, $fontsize, $fontangle, $xcord-10, $ycord+$textheight+20, $fontcolor, $strokecolor, $fontSig, $signature, 3);
+imagettfwritetext($im, $fontSize, $fontAngle, $xCord, $yCord, $fontColor, $strokeColor, $fontMsg, $msg, 4);
+imagettfwritetext($im, $fontSize, $fontAngle, $xCord-10, $yCord+$textHeight+20, $fontColor, $strokeColor, $fontSig, $signature, 3);
 
 # Display completed image as PNG
 imagepng($im, $filename);
