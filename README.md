@@ -1,16 +1,15 @@
-Blockchain Quote-of-the-day Bot
+# Blockchain Quote-of-the-day Bot
 
 This bot does:
-1) Randomly picks one bg image from templates folder
-2) Randomly picks one quote from quotes.txt
-3) Mix text and bg image gernerating a new PNG file under generated folder
-4) Optionally sends it to an email.
+1. Randomly picks one bg image from templates folder
+2. Randomly picks one quote from quotes.txt
+3. Mix text and bg image gernerating a new PNG file under generated folder
+4. Optionally sends it to an email.
 
-Setup: 
+## Setup: 
 
-1) Change SMTP with your server configuration.
+1. Change SMTP with your server configuration.
 
-# SMTP Settings
 $mail = new PHPMailer();
 $mail->IsSMTP();
 $mail->SMTPAuth   	= true;
@@ -28,12 +27,12 @@ $mailTo 		= '<MAIL_TO>';
 $mailToName 		= '<MAIL_TO_NAME>';
 
 
-2) Configure cron:
+2. Configure cron:
 - For publishing 5 to 5 days, at 10am:
 
-# 0 10 */5 * * cd <path-to-text-to-image>/text-to-image/; sleep 1;  /usr/bin/php ./text-to-image.php 1>/dev/null 2>/dev/null
+/*0 10 */5 * * cd <path-to-text-to-image>/text-to-image/; sleep 1;  /usr/bin/php ./text-to-image.php 1>/dev/null 2>/dev/null/*
 
-3) Configure an account on IFTTT (ifttt.com) for filtering your email ($mailTo) by subject and publishing the image 
+3. Configure an account on [IFTTT](ifttt.com) for filtering your email [$mailTo] by subject and publishing the image 
 on your Facebook fanpage.
 
 
