@@ -37,7 +37,7 @@ $mailToName 		= '<MAIL_TO_NAME>';
 ```
 3) Configure an account on [IFTTT](ifttt.com) for filtering your email [$mailTo] by subject and publishing the image 
 on your Facebook fanpage.
-*  Better if you create an dedicated email for that.
+*  Better if you create a dedicated email for that.
 
 ## Tips
 * We use 800x800px PNG, but it could be a 512x512px.
