@@ -22,9 +22,9 @@ $mail->Username   	= "<USERNAME>";
 $mail->Password   	= "<PASSWORD>";
 $mail->SMTPDebug 	= 2;
 $mail->Debugoutput 	= 'html';
-$mail->Subject 		 = '<YOUR_SUBJECT>';
-$mailFrom 		     = '<MAIL_FROM>';
-$mailFromName 		 = '<MAIL_FROM_NAME>';
+$mail->Subject 		= '<YOUR_SUBJECT>';
+$mailFrom 		    = '<MAIL_FROM>';
+$mailFromName 		= '<MAIL_FROM_NAME>';
 $mailTo 		    = '<MAIL_TO>';
 $mailToName 		= '<MAIL_TO_NAME>';
 ```
